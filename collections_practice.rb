@@ -55,6 +55,5 @@ def add_s(array)
     else
       "#{element}"
     end
-end
-array
+ends
 end

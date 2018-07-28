@@ -52,6 +52,7 @@ def add_s(array)
       "#{element}s"
     elsif element == "table"
       "#{element}s"
+    else
     end
 end
 end

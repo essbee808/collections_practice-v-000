@@ -48,7 +48,9 @@ def add_s(array)
   array.each_with_index.collect do |element, index|
     if element == "hand"
       "#{element}s"
-    elsif element == "knees"
+    elsif element == "knee"
+      "#{element}s"
+    elsif element == "table"
     end
 end
 end

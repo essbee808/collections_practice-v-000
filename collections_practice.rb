@@ -45,7 +45,7 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.each.collect! do |element|
+  array.collect do |element|
     if element == "hand"
       "#{element}s"
     elsif element == "knee"

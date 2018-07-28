@@ -36,4 +36,5 @@ def find_a(array)
   array.map do |word|
     if word.start_with? == "a"
       puts word
+    end
 end

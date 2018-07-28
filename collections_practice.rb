@@ -37,5 +37,5 @@ def find_a(array)
     if word.start_with? == "a"
       word
     end
-  end.compact
+  end
 end

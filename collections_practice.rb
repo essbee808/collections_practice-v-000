@@ -45,5 +45,5 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.each_with_index {|element, index| if }
+  array.each_with_index {|element, index| if element.last ==}
 end

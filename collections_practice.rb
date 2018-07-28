@@ -33,5 +33,5 @@ end
 end
 
 def find_a(array)
-  if array
+  array.start_with?("a")
 end

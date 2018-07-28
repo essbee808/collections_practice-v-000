@@ -33,5 +33,5 @@ end
 end
 
 def find_a(array)
-  array.smap
+  array.map do |word|
 end

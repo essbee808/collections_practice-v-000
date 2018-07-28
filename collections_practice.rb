@@ -51,6 +51,7 @@ def add_s(array)
     elsif element == "knee"
       "#{element}s"
     elsif element == "table"
+      "#{element}s"
     end
 end
 end

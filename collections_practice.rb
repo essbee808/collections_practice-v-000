@@ -27,12 +27,7 @@ end
 names = ["blake", "ashley", "scott"]
 
 def kesha_maker(names)
-  i = 0
-  updated_names = []
-  while i < names.length
-    names.each_with_index do |name|
-      name.chomp([2])
-    end
-    i += 1
-  end
+  names.each do |dollar_sign|
+    dollar_sign[2] = "$"
+end
 end

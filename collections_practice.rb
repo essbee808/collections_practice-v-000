@@ -33,3 +33,5 @@ end
 end
 
 def find_a(array)
+  if array
+end

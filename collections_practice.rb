@@ -42,7 +42,7 @@ end
 
 def sum_array(array)
   array.each do |el|
-    el.to_i
+    el.to_i.map
 end
   
 end

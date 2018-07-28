@@ -31,3 +31,5 @@ def kesha_maker(names)
     dollar_sign[2] = "$"
 end
 end
+
+def find_a

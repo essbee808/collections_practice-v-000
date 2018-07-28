@@ -33,5 +33,5 @@ end
 end
 
 def find_a(array)
-  array.start_with?("a").map 
+  array.map do
 end
